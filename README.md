@@ -1,0 +1,71 @@
+# AZU – Erika（feat. DADA）
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+My baby cry 話してたい
+I can go through なのにCry
+My baby cry 愛してる
+I don't know why いらないPride
+君といたい 君といたい
+Tell me buddy
+泣いてるまた俺のせいで
+君が笑ってるなんて
+もうしばらく見てないね
+あの頃が良かったって
+何もなかったよ安定なんて
+俺には少しもなかったし
+君が泣くんだよ最低だって
+気持ちが溢れて涙が出てる
+お願いもう変わらないで
+昔の君に戻ってって
+君が俺に言うんだ
+そうやって俺に言ったんだ
+正直笑いも出なかった
+変わっていったのは君だからさ
+I'll be back, back, back
+What you cryin', cryin', cryin'
+I'll be fly, fly, fly
+Baby cryin', going cry
+Take me back, back, back
+もう戻れないの
+I can't go back, back, back
+Oh thinking about you
+My baby cry 話してたい
+I can go through なのにCry
+My baby cry 愛してる
+I don't know why いらないPride
+君といたい 君といたい
+Why baby cry
+君は俺といたい
+なのに君 cry
+もういい飛んでいきたい
+Tell me what you are cryin'
+My baby cry 愛してないのって
+なんでそんなこと聞いてくるか分かんねえ
+話してたいけど俺もう行かなきゃダメ
+My baby cry, my baby cry
+花もあげれないで俺マジでダメな男
+君が泣いてるの知ってても荷物まとめ行く仕事
+帰ってきても話してくれないかも
+会えない明日も
+言えないありがとう
+言えないありがとう 邪魔なプライドとか
+いらないのに俺はめんどくさい男
+知らないことの方がまだ多いかも
+傷つけても気づけないかも
+My baby cry 話してたい
+I can go through なのにCry
+My baby cry 愛してる
+I don't know why いらないPride
+君といたい 君といたい
+Why baby cry
+君は俺といたい
+なのに君 cry
+もういい飛んでいきたい
+Tell me what you are cryin'
+My baby cry 愛してないのって
+なんでそんなこと聞いてくるか分かんねえ
+話してたいけど俺もう行かなきゃダメ
+My baby cry, my baby cry
+```
