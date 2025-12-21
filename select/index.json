@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Erika（feat. DADA）",
+  "base_artist": "AZU",
+  "createdAt": "2025-12-21T14:45:36.363864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Omar Y Erika (feat. Isabelle Valdez)",
+      "artist": "Redimi2",
+      "has_synced": true,
+      "path": "select/01_Omar_Y_Erika_(feat._Isabelle_Valdez)_Redimi2.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Erika (feat. Ida Ayu Made Paramita Saraswati)",
+      "artist": "Tigapagi",
+      "has_synced": true,
+      "path": "select/02_Erika_(feat._Ida_Ayu_Made_Paramita_Saraswati)_Tigapagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Erika (feat. DADA)",
+      "artist": "AZU",
+      "has_synced": false,
+      "path": "select/pl_01_Erika_(feat._DADA)_AZU.txt"
+    }
+  ]
+}
